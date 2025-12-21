@@ -12,3 +12,51 @@ This is a sample project created for GitHub practice.
 - Date: 2025
 
 Thank you 😊
+# My First GitHub Project
+
+Welcome to my GitHub repository 👋  
+This project is created to learn and practice GitHub using the web editor.
+
+## 📌 Project Description
+This repository contains sample files that help beginners understand:
+- How to create a repository
+- How to edit files in GitHub frontend
+- How to commit changes
+
+## 🛠 Technologies Used
+- GitHub
+- Markdown (.md files)
+- HTML (basic)
+- Text files
+
+## 📂 Project Structure
+- README.md → Project information
+- index.html → Sample web page
+- sample.txt → Practice text file
+
+## 🚀 How to Use
+1. Open this repository
+2. Click on any file
+3. Click the ✏️ Edit button
+4. Make changes
+5. Click **Commit changes**
+
+## 🎯 Learning Goals
+- Understand GitHub basics
+- Practice file editing
+- Learn commit messages
+
+## 🧑‍💻 Author
+- Name: Your Name
+- Role: Beginner GitHub Learner
+- Country: India
+
+## 📅 Created On
+- December 2025
+
+## 🙏 Acknowledgement
+Thanks to GitHub and online resources for helping me learn version control.
+
+Happy Learning! 😊
+
+
