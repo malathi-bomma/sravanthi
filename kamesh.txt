@@ -1,0 +1,14 @@
+# My First GitHub Project
+
+This is a sample project created for GitHub practice.
+
+## Features
+- Easy to understand
+- Beginner friendly
+- Uses GitHub web editor
+
+## Author
+- Name: Your Name
+- Date: 2025
+
+Thank you 😊
